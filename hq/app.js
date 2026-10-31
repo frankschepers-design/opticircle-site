@@ -1,5 +1,5 @@
 // Opticircle Command Center. Passcode gate is a convenience lock, not security (no sensitive data here).
-const PASS_SHA256 = 'e776ca14d17428422226dc33e106eafc2915c343e02196aaf5b94d0995ab870b';
+const PASS_SHA256 = 'b8b3bc73e51fb4f6f29e0639fa9d23387d006923b272de087a736d21749d7ad8';
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const num = v => v === null || v === undefined || v === '' ? null : Number(v);
