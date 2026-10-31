@@ -9,3 +9,8 @@ document.addEventListener('DOMContentLoaded',function(){
  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}});},{rootMargin:'0px 0px -8% 0px',threshold:.08});
  els.forEach(function(e){io.observe(e);});
 });
+// Contact form: composes an email in the visitor's own mail app. No server, no storage.
+document.addEventListener('submit',function(e){var f=e.target;if(!f.matches('.cform'))return;e.preventDefault();
+ var g=function(n){var el=f.elements[n];return el?el.value.trim():'';};
+ var body='Name: '+g('name')+'\nCompany: '+g('company')+'\nEmail: '+g('email')+'\n\n'+g('message')+'\n';
+ location.href='mailto:'+f.getAttribute('data-mailto')+'?subject='+encodeURIComponent((g('topic')||'Enquiry')+' | '+(g('company')||g('name')))+'&body='+encodeURIComponent(body);});

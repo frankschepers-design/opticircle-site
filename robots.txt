@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /mn/
 
 Sitemap: https://opticircle.com/sitemap.xml
