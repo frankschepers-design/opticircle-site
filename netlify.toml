@@ -1,0 +1,10 @@
+# Netlify: no build step; publish this folder as is.
+[build]
+  publish = "."
+  command = ""
+
+[[redirects]]
+  from = "https://www.opticircle.com/*"
+  to = "https://opticircle.com/:splat"
+  status = 301
+  force = true
