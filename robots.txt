@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://opticircle.com/sitemap.xml
+Sitemap: https://frankschepers-design.github.io/opticircle-site/sitemap.xml
