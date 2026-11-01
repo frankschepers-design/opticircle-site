@@ -281,3 +281,6 @@ ul.ticks{max-width:52rem}
 @media (max-width:720px){.no-js .menu-btn{display:none}.no-js nav ul{display:flex;position:static;box-shadow:none;border:0;padding:0}.no-js .top .wrap{flex-wrap:wrap}}
 @media print{.top,footer,.band{display:none}.reveal{opacity:1;transform:none}}
 .credbar .cred b{font-size:clamp(1.5rem,2.3vw,2.2rem);white-space:nowrap}
+
+/* insights wave 1 */
+.art-hero{margin:1.6rem 0 2rem}.art-hero img,.ithumb{width:100%;height:auto;display:block;border-radius:var(--radius)}.ithumb{margin-bottom:1rem}.article ol li{margin-bottom:.5em}.article sup{font-size:.7em;color:var(--coral-ink)}.mb{margin-bottom:1.5rem}.mt3{margin-top:3.5rem}
