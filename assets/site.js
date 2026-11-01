@@ -14,3 +14,8 @@ document.addEventListener('submit',function(e){var f=e.target;if(!f.matches('.cf
  var g=function(n){var el=f.elements[n];return el?el.value.trim():'';};
  var body='Name: '+g('name')+'\nCompany: '+g('company')+'\nEmail: '+g('email')+'\n\n'+g('message')+'\n';
  location.href='mailto:'+f.getAttribute('data-mailto')+'?subject='+encodeURIComponent((g('topic')||'Enquiry')+' | '+(g('company')||g('name')))+'&body='+encodeURIComponent(body);});
+
+// If no mail app opens, show the address so the visitor can still reach Frank.
+document.addEventListener('submit',function(e){var f=e.target;if(!f.matches('.cform,.gsform'))return;
+ setTimeout(function(){if(f.querySelector('.mailfallback'))return;var p=document.createElement('p');p.className='note full mailfallback';p.setAttribute('role','status');
+ p.innerHTML='Did your email app not open? Write to <a href="mailto:frankschepers@opticircle.com">frankschepers@opticircle.com</a> or call <a href="tel:+85298859925">+852 9885 9925</a>.';f.appendChild(p);},1500);},true);
