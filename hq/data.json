@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T21:51+08:00",
+ "generated_at": "2026-11-01T18:10+08:00",
  "tz": "UTC+8 (Ulaanbaatar)",
  "company": "Opticircle Consulting Ltd",
  "channels": [
@@ -18,36 +18,36 @@
    "url": "https://www.linkedin.com/company/opticircle-consulting/",
    "admin_url": "https://www.linkedin.com/company/144077022/admin/",
    "metric_label": "Followers",
-   "value": null,
+   "value": 4,
    "status": "live",
-   "note": "Admin id 144077022"
+   "note": "Admin id 144077022 · read 1 Nov 2026 18:10 UTC+8; impressions 0 (7d tile)"
   },
   {
    "id": "li_frank",
    "name": "Frank on LinkedIn",
    "url": "https://www.linkedin.com/in/frank-s-b1987210",
    "metric_label": "Followers",
-   "value": null,
+   "value": 3009,
    "status": "live",
-   "note": ""
+   "note": "500+ connections; 38 sent invites pending · read 1 Nov 2026"
   },
   {
    "id": "fb",
    "name": "Facebook Page",
    "url": "https://www.facebook.com/profile.php?id=61595838131962",
    "metric_label": "Followers",
-   "value": null,
+   "value": 1,
    "status": "live",
-   "note": ""
+   "note": "read 1 Nov 2026"
   },
   {
    "id": "ig",
    "name": "Instagram",
-   "url": null,
+   "url": "https://www.instagram.com/opticircleconsulting/",
    "metric_label": "Followers",
-   "value": null,
-   "status": "pending",
-   "note": "Account not yet created"
+   "value": 1,
+   "status": "live",
+   "note": "12 posts, 2 following · read 1 Nov 2026"
   },
   {
    "id": "gbp",
@@ -73,7 +73,7 @@
    "url": "https://www.facebook.com/profile.php?id=61595838131962"
   }
  ],
- "posting_log_found": false,
+ "posting_log_found": true,
  "growth": {
   "targets": [
    {
@@ -502,25 +502,11 @@
   "daily_quota": 20,
   "next_up": [
    {
-    "rank": 1,
-    "org": "AmCham Mongolia",
-    "role": "Adiya Oyungerel · Executive Director",
-    "template": "02 Nov 2026",
-    "url": "https://www.linkedin.com/in/adiya-oyungerel-552034106"
-   },
-   {
     "rank": 2,
     "org": "Business Council of Mongolia (BCM)",
     "role": "Suvd Nergui · Managing Director",
     "template": "02 Nov 2026",
     "url": "https://www.linkedin.com/in/suvd-nergui-3a5758159"
-   },
-   {
-    "rank": 3,
-    "org": "Canadian Chamber / Embassy of Canada to Mongolia",
-    "role": "Tsolmon Gantuya · Trade Commissioner",
-    "template": "02 Nov 2026",
-    "url": "https://www.linkedin.com/in/tsolmongantuya"
    },
    {
     "rank": 5,
@@ -535,6 +521,20 @@
     "role": "Juergen Hartwig · Country Director",
     "template": "02 Nov 2026",
     "url": "https://www.linkedin.com/in/juergen-hartwig-86697335"
+   },
+   {
+    "rank": 16,
+    "org": "Barloworld Mongolia (Caterpillar dealer)",
+    "role": "Enkhdelger (Andy) Enkhbold · Executive Director / CEO",
+    "template": "02 Nov 2026",
+    "url": "https://www.linkedin.com/in/enkhdelger-andy-enkhbold-57241217"
+   },
+   {
+    "rank": 17,
+    "org": "Bridgestone Mining Solutions",
+    "role": "Tatsuhiko Hosokawa · Director, Asia & EMIA Mining, Industrial and Construction Tire Solutions",
+    "template": "02 Nov 2026",
+    "url": "https://www.linkedin.com/in/tatsuhiko-hosokawa-0840007a"
    }
   ],
   "queued": 126,
@@ -544,7 +544,7 @@
   "sources": [
    {
     "file": "07_LEADS_MONGOLIA/Opticircle_Mongolia_100_Leads_and_Outreach.xlsx",
-    "count": 100
+    "count": 102
    },
    {
     "file": "network/MGL_Network_Leads.xlsx",
@@ -556,13 +556,13 @@
    }
   ],
   "status": {
-   "Not contacted": 100
+   "Not contacted": 102
   },
-  "warm": 8,
+  "warm": 10,
   "cold": 92,
-  "total": 100,
-  "pipeline_low_usd": 934800,
-  "pipeline_high_usd": 1275800,
+  "total": 102,
+  "pipeline_low_usd": 977800,
+  "pipeline_high_usd": 1280800,
   "top": [
    {
     "id": "OC-L001",
@@ -688,30 +688,31 @@
   "funnel_base": {
    "mtg": {
     "label": "Total meetings",
-    "base": 3.696
+    "base": null
    },
    "props": {
     "label": "Proposals sent",
-    "base": 1.848
+    "base": null
    },
    "wins90": {
     "label": "Wins signed inside 90 days",
-    "base": 0.45276
+    "base": null
    },
    "usd90": {
     "label": "Contracted value inside 90 days (USD)",
-    "base": 3622.08
+    "base": null
    },
    "cash90": {
     "label": "Cash inside 90 days at 50% on signature (USD)",
-    "base": 1811.04
+    "base": null
    }
   },
   "waves": {
    "Wave 1": 25,
    "Wave 2": 25,
    "Wave 3": 25,
-   "Wave 4": 25
+   "Wave 4": 25,
+   "Wave None": 2
   }
  },
  "revenue": {
