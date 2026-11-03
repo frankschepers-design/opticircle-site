@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T18:03+08:00",
+ "generated_at": "2026-11-03T18:10+08:00",
  "tz": "UTC+8 (Ulaanbaatar)",
  "company": "Opticircle Consulting Ltd",
  "channels": [
@@ -18,18 +18,18 @@
    "url": "https://www.linkedin.com/company/opticircle-consulting/",
    "admin_url": "https://www.linkedin.com/company/144077022/admin/",
    "metric_label": "Followers",
-   "value": 4,
+   "value": 6,
    "status": "live",
-   "note": "Admin id 144077022 · read 2 Nov 2026 18:05 UTC+8; post impressions 31, search appearances 1, page visitors 1 (period not shown)"
+   "note": "Admin id 144077022 · read 3 Nov 2026 18:10 UTC+8; 4 new followers (3 Oct–1 Nov); post impressions 55, search appearances 2, page visitors 1 (period not shown)"
   },
   {
    "id": "li_frank",
    "name": "Frank on LinkedIn",
-   "url": "https://www.linkedin.com/in/frankschepers1969/",
+   "url": "https://www.linkedin.com/in/frank-s-b1987210/",
    "metric_label": "Followers",
-   "value": 3010,
+   "value": 3017,
    "status": "live",
-   "note": "500+ connections; 37 sent invites pending, 0 received · latest PPWR post 1 reaction, 104 impressions · read 2 Nov 2026"
+   "note": "500+ connections; 39 sent invites pending, 0 received · PPWR post 1 reaction, 199 impressions · read 3 Nov 2026"
   },
   {
    "id": "fb",
@@ -38,7 +38,7 @@
    "metric_label": "Followers",
    "value": 1,
    "status": "live",
-   "note": "0 reviews · read 2 Nov 2026"
+   "note": "0 reviews · read 3 Nov 2026"
   },
   {
    "id": "ig",
@@ -47,7 +47,7 @@
    "metric_label": "Followers",
    "value": 2,
    "status": "live",
-   "note": "13 posts, 3 following · read 2 Nov 2026"
+   "note": "16 posts, 3 following · read 3 Nov 2026"
   },
   {
    "id": "gbp",
@@ -60,6 +60,18 @@
   }
  ],
  "posts": [
+  {
+   "date": "2026-11-03",
+   "channel": "LinkedIn (company)",
+   "title": "Gap Scan offer: \"Over 25 years in waste management and recycling…\"",
+   "url": "https://www.linkedin.com/company/144077022/admin/page-posts/published/"
+  },
+  {
+   "date": "2026-11-03",
+   "channel": "LinkedIn (company)",
+   "title": "Eight Lean lessons from PreZero Ghent",
+   "url": "https://www.linkedin.com/company/144077022/admin/page-posts/published/"
+  },
   {
    "date": "2026-11-02",
    "channel": "Facebook",
