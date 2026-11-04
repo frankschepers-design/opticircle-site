@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T18:10+08:00",
+ "generated_at": "2026-11-04T18:02+08:00",
  "tz": "UTC+8 (Ulaanbaatar)",
  "company": "Opticircle Consulting Ltd",
  "channels": [
@@ -18,18 +18,18 @@
    "url": "https://www.linkedin.com/company/opticircle-consulting/",
    "admin_url": "https://www.linkedin.com/company/144077022/admin/",
    "metric_label": "Followers",
-   "value": 6,
+   "value": 7,
    "status": "live",
-   "note": "Admin id 144077022 · read 3 Nov 2026 18:10 UTC+8; 4 new followers (3 Oct–1 Nov); post impressions 55, search appearances 2, page visitors 1 (period not shown)"
+   "note": "Admin id 144077022 · read 4 Nov 2026 18:00 UTC+8; 6 new followers (4 Oct–2 Nov); post impressions 86, search appearances 20, page visitors 3 (period not shown)"
   },
   {
    "id": "li_frank",
    "name": "Frank on LinkedIn",
    "url": "https://www.linkedin.com/in/frank-s-b1987210/",
    "metric_label": "Followers",
-   "value": 3017,
+   "value": 3024,
    "status": "live",
-   "note": "500+ connections; 39 sent invites pending, 0 received · PPWR post 1 reaction, 199 impressions · read 3 Nov 2026"
+   "note": "500+ connections; 38 sent invites pending, 3 received · intro post 13 reactions, 1,144 impressions; PPWR post 2 reactions, 225 impressions; Three dates post 1 reaction, 67 impressions · read 4 Nov 2026"
   },
   {
    "id": "fb",
@@ -38,7 +38,7 @@
    "metric_label": "Followers",
    "value": 1,
    "status": "live",
-   "note": "0 reviews · read 3 Nov 2026"
+   "note": "0 reviews · read 4 Nov 2026"
   },
   {
    "id": "ig",
@@ -47,7 +47,7 @@
    "metric_label": "Followers",
    "value": 2,
    "status": "live",
-   "note": "16 posts, 3 following · read 3 Nov 2026"
+   "note": "17 posts, 3 following · read 4 Nov 2026"
   },
   {
    "id": "gbp",
@@ -60,6 +60,30 @@
   }
  ],
  "posts": [
+  {
+   "date": "2026-11-04",
+   "channel": "LinkedIn",
+   "title": "Three dates to plan around",
+   "url": "https://www.linkedin.com/feed/update/urn:li:activity:7523555064565645312/"
+  },
+  {
+   "date": "2026-11-04",
+   "channel": "LinkedIn (company)",
+   "title": "Three dates to plan around",
+   "url": "https://www.linkedin.com/feed/update/urn:li:share:7523555841694765060"
+  },
+  {
+   "date": "2026-11-04",
+   "channel": "Facebook",
+   "title": "Three dates to plan around",
+   "url": "https://www.facebook.com/photo/?fbid=122104787745527937&set=pb.61595838131962.-2207520000"
+  },
+  {
+   "date": "2026-11-04",
+   "channel": "Instagram",
+   "title": "Three dates to plan around",
+   "url": "https://www.instagram.com/opticircleconsulting/p/DfTP0sGE0d3/"
+  },
   {
    "date": "2026-11-03",
    "channel": "LinkedIn (company)",
